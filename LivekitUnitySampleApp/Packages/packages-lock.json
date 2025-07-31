@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": {
+      "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f213ff497e4ff462a77319cf677cf20cc0860ca9"
+    },
+    "com.nickkhalow.richtypes": {
+      "version": "https://github.com/NickKhalow/RichTypesUnity.git?path=/Packages/RichTypes",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ae15a0351cbc1f15d955024802c2eb8f9c70cb9e"
+    },
     "com.unity.2d.animation": {
       "version": "9.1.1",
       "depth": 1,
